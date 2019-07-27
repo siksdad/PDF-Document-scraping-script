@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Nov  7 13:25:17 2017
 
 @author: siksdad
-Francis Kim
+Yoon Kim
 """
 
 from pdfminer.layout import LAParams
